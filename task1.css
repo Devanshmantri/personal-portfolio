@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(173, 178, 20);
+    font-size: large;
+}
+h1{
+    background-color: aqua;
+    text-align: center;
+}
+img{
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+    align-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+table,th,td{
+    text-align: center;
+    border: 3px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: large;
+}
+
+html{
+    padding:8px;
+}
+.contact li{
+    text-decoration: none;
+    padding-bottom: 9px;
+}
